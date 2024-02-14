@@ -617,6 +617,7 @@ input, select, textarea {
 	p, ul, ol, dl, table {
 		margin-bottom: 1em;
 	}
+
 /* Basic styling for header 1 */
 .header1 {
     background: linear-gradient(to right, rgba(255, 215, 0, 0.9), rgba(255, 215, 0, 0.7)); /* Shiny gold gradient */
